@@ -20,7 +20,7 @@ while a <= n:
 print(result_text)
 
 # Define the folder and file path
-folder_path = r"/Users/jenniferalex/Desktop/Learn/python/ex_1"
+folder_path = r"/Users/jenniferalex/Desktop/Learn/Fibonacci-Sequence"
 file_path = os.path.join(folder_path, "test1_output.txt")
 
 # Ensure folder exists
